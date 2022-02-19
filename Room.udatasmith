@@ -1,0 +1,783 @@
+<DatasmithUnrealScene>
+	<Version>0.23</Version>
+	<SDKVersion>4.23E1</SDKVersion>
+	<Host>SketchUp</Host>
+	<Application Vendor="Trimble Inc." ProductName="SketchUp Pro" ProductVersion="2019"/>
+	<User ID="6a8489734ccbebab201cca9bd3eb5521" OS="Windows 10 (Release 1809)"/>
+	<StaticMesh name="Maf9641e6ecd32207d6bcb175421017a3_1" label="Left_wall">
+		<file path="Room_Assets/Maf9641e6ecd32207d6bcb175421017a3_1.udsmesh"/>
+		<Size a="43155.214844" x="4.031496" y="156.094498" z="107.362206"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="62f97caa475f59ef4de3f27da9726e2f"/>
+	</StaticMesh>
+	<StaticMesh name="Mfd5103745cd405f8dad650d20f399b73_1" label="Right_wal">
+		<file path="Room_Assets/Mfd5103745cd405f8dad650d20f399b73_1.udsmesh"/>
+		<Size a="43155.214844" x="4.031496" y="156.094498" z="107.362206"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c468f63a55738e95b22147c4267f0baf"/>
+	</StaticMesh>
+	<StaticMesh name="M3907f910715724eb2a7f2b83a228e57b_1" label="back_wall">
+		<file path="Room_Assets/M3907f910715724eb2a7f2b83a228e57b_1.udsmesh"/>
+		<Size a="40148.8125" x="305.68692" y="7.874016" z="107.362206"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="fea9fc4b3324eeab4b5ed3dc567bc4e0"/>
+	</StaticMesh>
+	<StaticMesh name="M7515875808ef6219fa6fd725e2105588_1" label="floor">
+		<file path="Room_Assets/M7515875808ef6219fa6fd725e2105588_1.udsmesh"/>
+		<Size a="2765.453613" x="156.094482" y="156.094482" z="3.937008"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7aa73ad9e5aa59252c40b49ee68f230b"/>
+	</StaticMesh>
+	<StaticMesh name="Mf44e14d49cd011d1e873d9fe0c4624f1_1" label="Door">
+		<file path="Room_Assets/Mf44e14d49cd011d1e873d9fe0c4624f1_1.udsmesh"/>
+		<Size a="9791.555664" x="35.433071" y="5.293682" z="86.614174"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5c75b10a8a75fa50c966e4b94c3089d7"/>
+		<Material id="52" name="Color_M08-G6a38b07327f257d7cab52a100bb8c056"/>
+	</StaticMesh>
+	<StaticMesh name="M51c45b795d5d18a3e4e0c37e8b20a141_1" label="Table">
+		<file path="Room_Assets/M51c45b795d5d18a3e4e0c37e8b20a141_1.udsmesh"/>
+		<Size a="85205.617188" x="222.047241" y="35.433071" z="43.700787"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c6c23e680f0766a011d0d61e3a5f20f0"/>
+		<Material id="52" name="Color_M08-G6a38b07327f257d7cab52a100bb8c056"/>
+	</StaticMesh>
+	<StaticMesh name="Mbb53c62475a4f28295dfd71302a53a3d_1" label="Shelves">
+		<file path="Room_Assets/Mbb53c62475a4f28295dfd71302a53a3d_1.udsmesh"/>
+		<Size a="22615.775391" x="222.047241" y="19.488188" z="45.236221"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="de21ee683366b471bee9f604b8c69512"/>
+		<Material id="52" name="Color_M08-G6a38b07327f257d7cab52a100bb8c056"/>
+	</StaticMesh>
+	<StaticMesh name="Me59df117909c6a08c112b409d6a33a3e_1" label="Shelving">
+		<file path="Room_Assets/Me59df117909c6a08c112b409d6a33a3e_1.udsmesh"/>
+		<Size a="12118.053711" x="31.4025" y="59.055119" z="106.29921"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5ace1701719975ad1f2b346525930fe2"/>
+		<Material id="52" name="Color_M08-G6a38b07327f257d7cab52a100bb8c056"/>
+	</StaticMesh>
+	<StaticMesh name="Mc11baaae0f2a8ca91c9e9eba22278f29_1" label="Corner_table">
+		<file path="Room_Assets/Mc11baaae0f2a8ca91c9e9eba22278f29_1.udsmesh"/>
+		<Size a="46445.980469" x="118.241577" y="78.030533" z="43.700787"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7019068d1f3379e18086f8be868fb50c"/>
+		<Material id="52" name="Color_M08-G6a38b07327f257d7cab52a100bb8c056"/>
+	</StaticMesh>
+	<StaticMesh name="M9914a0ce04a7b7b6a8e39bec55064b82_1" label="Light">
+		<file path="Room_Assets/M9914a0ce04a7b7b6a8e39bec55064b82_1.udsmesh"/>
+		<Size a="2784.046875" x="71.456696" y="14.764381" z="65.634651"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a892c2a2542cdf82df7f4fa16bc96bed"/>
+		<Material id="52" name="Color_M08-G6a38b07327f257d7cab52a100bb8c056"/>
+		<Material id="46" name="Philips_20Incandescent_20A-19_20Light_20Bulb-Ldd12ebb26b14c4a861d165b59beb8e98"/>
+	</StaticMesh>
+	<StaticMesh name="M34d2cc2dd03b1c67b64f6cdada0e49de_1" label="Spot_light">
+		<file path="Room_Assets/M34d2cc2dd03b1c67b64f6cdada0e49de_1.udsmesh"/>
+		<Size a="82.148438" x="7.874016" y="7.874016" z="26.968504"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8647496cdaf991876921f3bd39e94f65"/>
+		<Material id="46" name="Philips_20Incandescent_20A-19_20Light_20Bulb-Ldd12ebb26b14c4a861d165b59beb8e98"/>
+		<Material id="52" name="Color_M08-G6a38b07327f257d7cab52a100bb8c056"/>
+	</StaticMesh>
+	<StaticMesh name="M48366f0ee2c1f2a3a801062f2468c023_1" label="Soldering_tool">
+		<file path="Room_Assets/M48366f0ee2c1f2a3a801062f2468c023_1.udsmesh"/>
+		<Size a="35.284286" x="26.269463" y="2.776365" z="2.776365"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2906158ecb015f01ee54da1f5a1d428c"/>
+		<Material id="55" name="Color_M05-G01e1667858612ae92e9f614fc8944ad0"/>
+		<Material id="56" name="Color_E04-Gf40fe850cad8c705cb34cee968cfb8f7"/>
+		<Material id="53" name="Color_M07-G521ff69e2763e21f73a80b3c3a3bb2d4"/>
+		<Material id="54" name="Color_M06-G4acf2788786180f1b34665260bd05113"/>
+	</StaticMesh>
+	<StaticMesh name="M2191ff07bbbe0653e864b7fd7814476a_1" label="Soldering_station">
+		<file path="Room_Assets/M2191ff07bbbe0653e864b7fd7814476a_1.udsmesh"/>
+		<Size a="646.988892" x="19.256121" y="8.531193" z="8.827223"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="dfa8ed3951432f28cec6342dcc087082"/>
+		<Material id="53" name="Color_M07-G521ff69e2763e21f73a80b3c3a3bb2d4"/>
+		<Material id="57" name="Color_E03-Gc88ed8078722f9296152443e527f38de"/>
+	</StaticMesh>
+	<StaticMesh name="Mdcd97db0418b9335f678a5db0ce5796d_1" label="Video_Card_element__1">
+		<file path="Room_Assets/Mdcd97db0418b9335f678a5db0ce5796d_1.udsmesh"/>
+		<Size a="24.644018" x="2.496063" y="4.038715" z="1.382768"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cad2f610f9140ebe4067e5ab8f552bbe"/>
+		<Material id="79" name="ceramika_elekroniczna-G6876fb7e1c98844e8bddf701066e2526"/>
+		<Material id="68" name="a4-L894f782a148b33af1e39a0efed952d69"/>
+		<Material id="70" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+	</StaticMesh>
+	<StaticMesh name="Mdd5173529eeee61f3b0f6fc83463d7d3_1" label="Video_Card_element__4">
+		<file path="Room_Assets/Mdd5173529eeee61f3b0f6fc83463d7d3_1.udsmesh"/>
+		<Size a="6.141793" x="1.429134" y="1.917323" z="0.829134"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="233f63907d7ea1c3abd3e71a54a381ff"/>
+		<Material id="68" name="a4-L894f782a148b33af1e39a0efed952d69"/>
+		<Material id="70" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+	</StaticMesh>
+	<StaticMesh name="Mb8dbea244bc1358745f4b8aacc194f10_1" label="Video_card_resistor__3">
+		<file path="Room_Assets/Mb8dbea244bc1358745f4b8aacc194f10_1.udsmesh"/>
+		<Size a="2.495916" x="0.854331" y="1.673228" z="0.295276"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c3829845a60910d16862552abc2f2511"/>
+		<Material id="68" name="a4-L894f782a148b33af1e39a0efed952d69"/>
+		<Material id="70" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+	</StaticMesh>
+	<StaticMesh name="M52f9ec21735243ad9917cda3ca077d32_1" label="GPU">
+		<file path="Room_Assets/M52f9ec21735243ad9917cda3ca077d32_1.udsmesh"/>
+		<Size a="637.877747" x="16.444685" y="16.493286" z="1.297555"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="79144aa035904ef645a805ff4c36bfc1"/>
+		<Material id="76" name="Metal_chip-G73e85b99c5afd6dc0f3ee9f7de9bfb63"/>
+		<Material id="77" name="5870_gpu-s-L55de5f95b15a1edf62aa8724ab0e0ac2"/>
+		<Material id="79" name="ceramika_elekroniczna-G6876fb7e1c98844e8bddf701066e2526"/>
+	</StaticMesh>
+	<StaticMesh name="M8b5061484602cdd768665e95da48c912_1" label="Video_card_throttles">
+		<file path="Room_Assets/M8b5061484602cdd768665e95da48c912_1.udsmesh"/>
+		<Size a="197.633255" x="4.299212" y="17.972441" z="1.199018"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cf017ab7ab8e3be5625ef883b0a792b9"/>
+		<Material id="70" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+		<Material id="71" name="ceramika_biala-G1a1cab32125024c9e8bfb74b19b939a3"/>
+		<Material id="68" name="a4-L894f782a148b33af1e39a0efed952d69"/>
+	</StaticMesh>
+	<StaticMesh name="Mf890c04990d50b46aad3058a6c83dc40_1" label="Graphics_card_Power_Phase_Controller">
+		<file path="Room_Assets/Mf890c04990d50b46aad3058a6c83dc40_1.udsmesh"/>
+		<Size a="7.269779" x="2.485833" y="2.150591" z="0.65748"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e94605d0ff463968356b4aee6a7a7256"/>
+		<Material id="72" name="Kondensator_metal-Gd3b4ca9ef3c47e53d099a8038a4ba682"/>
+		<Material id="73" name="Plastik_czarny-G8b7de129ea66e27b00aaa6d52a01f0e9"/>
+		<Material id="70" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+		<Material id="74" name="abit_ab9_quad_gt-L1b6bfe9ede7ca380be748d983a1c0e10"/>
+	</StaticMesh>
+	<StaticMesh name="Mf5cb8084169e1b87d30ad31737c349ef_1" label="Video_card_resistor__1">
+		<file path="Room_Assets/Mf5cb8084169e1b87d30ad31737c349ef_1.udsmesh"/>
+		<Size a="1.577535" x="0.574803" y="0.874016" z="0.295276"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1af23dd982414254f8ef3bcbefe08d09"/>
+		<Material id="70" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+		<Material id="68" name="a4-L894f782a148b33af1e39a0efed952d69"/>
+	</StaticMesh>
+	<StaticMesh name="Mee6a009f39d15617cc4e2442720b84a6_1" label="Video_card_power_connector">
+		<file path="Room_Assets/Mee6a009f39d15617cc4e2442720b84a6_1.udsmesh"/>
+		<Size a="284.283234" x="5.393701" y="7.967167" z="4.330709"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="db4d810011c6cec4d2c4127ca7525088"/>
+		<Material id="73" name="Plastik_czarny-G8b7de129ea66e27b00aaa6d52a01f0e9"/>
+		<Material id="72" name="Kondensator_metal-Gd3b4ca9ef3c47e53d099a8038a4ba682"/>
+	</StaticMesh>
+	<StaticMesh name="Mc69b8864b658138a25cac2e976081d96_1" label="Video_card_casing">
+		<file path="Room_Assets/Mc69b8864b658138a25cac2e976081d96_1.udsmesh"/>
+		<Size a="3553.575439" x="110.513153" y="39.410324" z="14.212599"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7fe3218d8aa8435fd75b29bbef6d843d"/>
+		<Material id="70" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+		<Material id="85" name="Color_A07-G8b299fb0f94b8c7fe3ffbe71fe2bd2d2"/>
+		<Material id="89" name="Color_009-G5b4467b76700e0fa86070f5ce8878854"/>
+	</StaticMesh>
+	<StaticMesh name="M4b0c7c3e42c192e20b272c131648c20a_1" label="Video_Card_element__3">
+		<file path="Room_Assets/M4b0c7c3e42c192e20b272c131648c20a_1.udsmesh"/>
+		<Size a="6.362483" x="2.057579" y="1.271654" z="0.68327"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="fd39f344f9a61265e2a44bb2ff6d54d7"/>
+		<Material id="68" name="a4-L894f782a148b33af1e39a0efed952d69"/>
+		<Material id="70" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+	</StaticMesh>
+	<StaticMesh name="Me3ba94247bd86c05c54d37b572cc9f32_1" label="Video_card_fan_connector">
+		<file path="Room_Assets/Me3ba94247bd86c05c54d37b572cc9f32_1.udsmesh"/>
+		<Size a="29.713331" x="1.062992" y="3.700787" z="3.267717"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cd574a0c3e70a25832f7d75f81ddcb3e"/>
+		<Material id="72" name="Kondensator_metal-Gd3b4ca9ef3c47e53d099a8038a4ba682"/>
+		<Material id="73" name="Plastik_czarny-G8b7de129ea66e27b00aaa6d52a01f0e9"/>
+	</StaticMesh>
+	<StaticMesh name="M98b56891be2cdfb350664cddfaae3dda_1" label="Video_card_chip">
+		<file path="Room_Assets/M98b56891be2cdfb350664cddfaae3dda_1.udsmesh"/>
+		<Size a="1.801201" x="1.086614" y="1.086614" z="0.295276"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bc54b2b2bc3576fa8743e14d7a2b048b"/>
+		<Material id="68" name="a4-L894f782a148b33af1e39a0efed952d69"/>
+		<Material id="70" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+	</StaticMesh>
+	<StaticMesh name="M3f5193a394ef5829dec5a6df2aa1653b_1" label="Video_Card_Fan">
+		<file path="Room_Assets/M3f5193a394ef5829dec5a6df2aa1653b_1.udsmesh"/>
+		<Size a="2199.057861" x="30.561508" y="30.746452" z="8.238132"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9bba5939ec09e5cca03a4d03ff2794df"/>
+		<Material id="85" name="Color_A07-G8b299fb0f94b8c7fe3ffbe71fe2bd2d2"/>
+	</StaticMesh>
+	<StaticMesh name="M0716be0c69a3d2bfce26b511fbd67e44_1" label="Graphics_Card_Power_Controller">
+		<file path="Room_Assets/M0716be0c69a3d2bfce26b511fbd67e44_1.udsmesh"/>
+		<Size a="16.487316" x="2.95891" y="2.95891" z="0.525984"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3681cb1313285848bce5683ca66fc1b2"/>
+		<Material id="73" name="Plastik_czarny-G8b7de129ea66e27b00aaa6d52a01f0e9"/>
+		<Material id="72" name="Kondensator_metal-Gd3b4ca9ef3c47e53d099a8038a4ba682"/>
+		<Material id="74" name="abit_ab9_quad_gt-L1b6bfe9ede7ca380be748d983a1c0e10"/>
+		<Material id="70" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+	</StaticMesh>
+	<StaticMesh name="M21374811578fb2164a0953088e8af981_1" label="Video_Card_Beeper">
+		<file path="Room_Assets/M21374811578fb2164a0953088e8af981_1.udsmesh"/>
+		<Size a="34.532761" x="3.677165" y="3.677165" z="2.8513"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c8ac4f02845cda59c580ab1e9eec7aa5"/>
+		<Material id="73" name="Plastik_czarny-G8b7de129ea66e27b00aaa6d52a01f0e9"/>
+		<Material id="70" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+		<Material id="72" name="Kondensator_metal-Gd3b4ca9ef3c47e53d099a8038a4ba682"/>
+	</StaticMesh>
+	<StaticMesh name="M38ad7b7c8fab0d6bc4b871e1abee4e66_1" label="Video_card_capacitor">
+		<file path="Room_Assets/M38ad7b7c8fab0d6bc4b871e1abee4e66_1.udsmesh"/>
+		<Size a="21.149426" x="3.473591" y="3.442946" z="3.307508"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d289bae4467e8cb991d2302885a32911"/>
+		<Material id="72" name="Kondensator_metal-Gd3b4ca9ef3c47e53d099a8038a4ba682"/>
+		<Material id="86" name="Kondensator_niebieski-Gd147dc47688214aa7176965876a049e8"/>
+	</StaticMesh>
+	<StaticMesh name="Md2df42c2383edca886c61a9004a9836c_1" label="Video_card_radiator">
+		<file path="Room_Assets/Md2df42c2383edca886c61a9004a9836c_1.udsmesh"/>
+		<Size a="16914.070313" x="70.078743" y="31.732283" z="8.661417"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8b535b4d6fd26624f115645990838f35"/>
+		<Material id="84" name="Color_002-G9d970e49df2d68bd3d5bc08875228747"/>
+	</StaticMesh>
+	<StaticMesh name="M313ef72515985b32961b2386cb789ac9_1" label="Video_card_outputs">
+		<file path="Room_Assets/M313ef72515985b32961b2386cb789ac9_1.udsmesh"/>
+		<Size a="5924.681641" x="11.366486" y="48.099487" z="16.447933"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="eb9cca1bea4ef4e068ffa5a8e99f9100"/>
+		<Material id="72" name="Kondensator_metal-Gd3b4ca9ef3c47e53d099a8038a4ba682"/>
+		<Material id="80" name="Metal_DVI-Gb688d7dbf569459eb6fd85d2d4025841"/>
+		<Material id="73" name="Plastik_czarny-G8b7de129ea66e27b00aaa6d52a01f0e9"/>
+		<Material id="81" name="0046_Gold-G0862c16d4d1e89c26d0a4b89367fa622"/>
+		<Material id="70" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+		<Material id="76" name="Metal_chip-G73e85b99c5afd6dc0f3ee9f7de9bfb63"/>
+	</StaticMesh>
+	<StaticMesh name="M1ce30a9bc260265dfe9e0cdfb5510f28_1" label="Video_card_throtle">
+		<file path="Room_Assets/M1ce30a9bc260265dfe9e0cdfb5510f28_1.udsmesh"/>
+		<Size a="12.896528" x="2.688976" y="2.688976" z="1.199018"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8c841baa4e7145ff33506b81272d1404"/>
+		<Material id="68" name="a4-L894f782a148b33af1e39a0efed952d69"/>
+		<Material id="70" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+	</StaticMesh>
+	<StaticMesh name="Mb456ca12d98cb49a8741c01f20785699_1" label="Video_card_memory">
+		<file path="Room_Assets/Mb456ca12d98cb49a8741c01f20785699_1.udsmesh"/>
+		<Size a="24.068357" x="5.76378" y="4.84252" z="0.533664"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0a6dcb81e880de40b65a959e8b2d2fe8"/>
+		<Material id="79" name="ceramika_elekroniczna-G6876fb7e1c98844e8bddf701066e2526"/>
+		<Material id="68" name="a4-L894f782a148b33af1e39a0efed952d69"/>
+		<Material id="70" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+	</StaticMesh>
+	<StaticMesh name="M441b0a106ff6ef5c0c20f00061a8b926_1" label="Video_card_resistor__2">
+		<file path="Room_Assets/M441b0a106ff6ef5c0c20f00061a8b926_1.udsmesh"/>
+		<Size a="1.276578" x="0.555118" y="0.8982" z="0.295276"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7e1d27f32f725e4d77e6b9fd126d06a0"/>
+		<Material id="68" name="a4-L894f782a148b33af1e39a0efed952d69"/>
+		<Material id="70" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+	</StaticMesh>
+	<StaticMesh name="M8289c925c830bb1e1d946740b12f905a_1" label="Video_Card_element__2">
+		<file path="Room_Assets/M8289c925c830bb1e1d946740b12f905a_1.udsmesh"/>
+		<Size a="20.100306" x="2.46063" y="3.53937" z="1.382768"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c49746b51ffaea0b006ed001babd41ae"/>
+		<Material id="79" name="ceramika_elekroniczna-G6876fb7e1c98844e8bddf701066e2526"/>
+		<Material id="68" name="a4-L894f782a148b33af1e39a0efed952d69"/>
+	</StaticMesh>
+	<StaticMesh name="M587d3db53c7f030656962ff44ee947a9_1" label="Gruppа_84">
+		<file path="Room_Assets/M587d3db53c7f030656962ff44ee947a9_1.udsmesh"/>
+		<Size a="19133.265625" x="110.236221" y="46.310921" z="0.805476"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a57f9d9fcd3f8e60ceab69068921ee25"/>
+		<Material id="82" name="t3-L0b8854ad38f0a6c65807928d28195609"/>
+		<Material id="68" name="a4-L894f782a148b33af1e39a0efed952d69"/>
+	</StaticMesh>
+	<ActorMesh name="SU_1254_1" label="Left_wall" layer="Layer0">
+		<mesh name="Maf9641e6ecd32207d6bcb175421017a3_1"/>
+		<material id="0" name="Field_Square_Tile-Id2af8f3d413f7988916a984adeb87cb2"/>
+		<Transform tx="145.969238" ty="163.368027" tz="5.0" sx="3.81" sy="3.81" sz="3.81" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0NjPC6pLX7XhioSRdY8yD3" />
+		<tag value="SU.PATH.0.1254" />
+	</ActorMesh>
+	<ActorMesh name="SU_1255_1" label="Right_wal" layer="Layer0">
+		<mesh name="Mfd5103745cd405f8dad650d20f399b73_1"/>
+		<material id="0" name="Field_Square_Tile-Id2af8f3d413f7988916a984adeb87cb2"/>
+		<Transform tx="-1034.057983" ty="163.368027" tz="5.0" sx="3.81" sy="3.81" sz="3.81" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.1nMmnqVCz5OPRHqn$J44DN" />
+		<tag value="SU.PATH.0.1255" />
+	</ActorMesh>
+	<ActorMesh name="SU_1312_1" label="back_wall" layer="Layer0">
+		<mesh name="M3907f910715724eb2a7f2b83a228e57b_1"/>
+		<material id="0" name="Field_Square_Tile-Id2af8f3d413f7988916a984adeb87cb2"/>
+		<Transform tx="-188.669357" ty="245.868027" tz="5.0" sx="3.81" sy="3.81" sz="3.81" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0Erkn1Oyj4KBrmZYMKZW1N" />
+		<tag value="SU.PATH.0.1312" />
+	</ActorMesh>
+	<ActorMesh name="SU_1367_1" label="floor" layer="Layer0">
+		<mesh name="M7515875808ef6219fa6fd725e2105588_1"/>
+		<material id="0" name="Wood_Square_Tile_01-I82cedff6bd372effc9cb688236e197c9"/>
+		<Transform tx="145.969238" ty="-57.371979" tz="-25.0" sx="7.6581" sy="3.81" sz="3.81" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0UabuLx4b3TwiUIJPBZQ8_" />
+		<tag value="SU.PATH.0.1367" />
+	</ActorMesh>
+	<ActorMesh name="SU_9560_1" label="Door" layer="Layer0">
+		<mesh name="Mf44e14d49cd011d1e873d9fe0c4624f1_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="-385.348602" ty="-314.32843" tz="5.0" sx="3.81" sy="3.81" sz="3.81" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.1PXRWcnJv7dvYS7OL4TXui" />
+		<tag value="SU.PATH.0.9560" />
+	</ActorMesh>
+	<ActorMesh name="SU_170097_1" label="Table" layer="Layer0">
+		<mesh name="M51c45b795d5d18a3e4e0c37e8b20a141_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="-169.724365" ty="155.868027" tz="5.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.3Q52ngrKP0ZRux72otH_n_" />
+		<tag value="SU.PATH.0.170097" />
+	</ActorMesh>
+	<ActorMesh name="SU_170605_1" label="Shelves" layer="Layer0">
+		<mesh name="Mbb53c62475a4f28295dfd71302a53a3d_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="-169.724365" ty="193.066605" tz="242.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.2rn9IED6fBC8nbOCjuGJbe" />
+		<tag value="SU.PATH.0.170605" />
+	</ActorMesh>
+	<ActorMesh name="SU_259511_1" label="Shelving" layer="Layer0">
+		<mesh name="Me59df117909c6a08c112b409d6a33a3e_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="130.609238" ty="-270.590729" tz="5.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.3VAedxJXv4mhqLKuxTrnb2" />
+		<tag value="SU.PATH.0.259511" />
+	</ActorMesh>
+	<ActorMesh name="SU_259909_1" label="Shelving" layer="Layer0">
+		<mesh name="Me59df117909c6a08c112b409d6a33a3e_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="130.609238" ty="-120.590736" tz="5.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.3VAedxJXv4mhqLKuxTrnb2" />
+		<tag value="SU.PATH.0.259909" />
+	</ActorMesh>
+	<ActorMesh name="SU_260307_1" label="Shelving" layer="Layer0">
+		<mesh name="Me59df117909c6a08c112b409d6a33a3e_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="-954.295593" ty="-120.590736" tz="5.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.3VAedxJXv4mhqLKuxTrnb2" />
+		<tag value="SU.PATH.0.260307" />
+	</ActorMesh>
+	<ActorMesh name="SU_260705_1" label="Shelving" layer="Layer0">
+		<mesh name="Me59df117909c6a08c112b409d6a33a3e_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="-954.295593" ty="-270.590729" tz="5.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.3VAedxJXv4mhqLKuxTrnb2" />
+		<tag value="SU.PATH.0.260705" />
+	</ActorMesh>
+	<ActorMesh name="SU_278032_1" label="Corner_table" layer="Layer0">
+		<mesh name="Mc11baaae0f2a8ca91c9e9eba22278f29_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="-733.724365" ty="47.67046" tz="5.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.1BvDGh1eH6IgQAx1xze97M" />
+		<tag value="SU.PATH.0.278032" />
+	</ActorMesh>
+	<ActorMesh name="SU_285529_1" label="Corner_table" layer="Layer0">
+		<mesh name="Mc11baaae0f2a8ca91c9e9eba22278f29_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="-169.704361" ty="47.67046" tz="5.0" sx="-2.54" sy="-2.54" sz="-2.54" qx="1.0" qy="0.0" qz="0.0" qw="-0.0" qhex="FEFF7F3F0000000000000000000000B4"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.1BvDGh1eH6IgQAx1xze97M" />
+		<tag value="SU.PATH.0.285529" />
+	</ActorMesh>
+	<ActorMesh name="SU_576182_1" label="Light" layer="Layer0">
+		<mesh name="M9914a0ce04a7b7b6a8e39bec55064b82_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="-360.529083" ty="136.857697" tz="247.337982" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0BgQOdKXXA4vC43RcOfRBn" />
+		<tag value="SU.PATH.0.576182" />
+	</ActorMesh>
+	<ActorMesh name="SU_676500_1" label="Spot_light" layer="Layer0">
+		<mesh name="M34d2cc2dd03b1c67b64f6cdada0e49de_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="31.559759" ty="108.095352" tz="311.299988" sx="3.81" sy="3.81" sz="3.81" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0ovEJOZUP8uhCFjnGev2Pw" />
+		<tag value="SU.PATH.0.676500" />
+	</ActorMesh>
+	<ActorMesh name="SU_687160_1" label="Spot_light" layer="Layer0">
+		<mesh name="M34d2cc2dd03b1c67b64f6cdada0e49de_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="-908.333069" ty="127.984756" tz="311.299988" sx="3.81" sy="3.81" sz="3.81" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0ovEJOZUP8uhCFjnGev2Pw" />
+		<tag value="SU.PATH.0.687160" />
+	</ActorMesh>
+	<ActorMesh name="SU_697820_1" label="Spot_light" layer="Layer0">
+		<mesh name="M34d2cc2dd03b1c67b64f6cdada0e49de_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="-154.296539" ty="-116.978104" tz="311.299988" sx="3.81" sy="3.81" sz="3.81" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0ovEJOZUP8uhCFjnGev2Pw" />
+		<tag value="SU.PATH.0.697820" />
+	</ActorMesh>
+	<ActorMesh name="SU_708480_1" label="Spot_light" layer="Layer0">
+		<mesh name="M34d2cc2dd03b1c67b64f6cdada0e49de_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="-718.609741" ty="-117.271683" tz="311.299988" sx="3.81" sy="3.81" sz="3.81" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0ovEJOZUP8uhCFjnGev2Pw" />
+		<tag value="SU.PATH.0.708480" />
+	</ActorMesh>
+	<ActorMesh name="SU_719140_1" label="Spot_light" layer="Layer0">
+		<mesh name="M34d2cc2dd03b1c67b64f6cdada0e49de_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="-436.89386" ty="-116.901665" tz="311.299988" sx="3.81" sy="3.81" sz="3.81" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0ovEJOZUP8uhCFjnGev2Pw" />
+		<tag value="SU.PATH.0.719140" />
+	</ActorMesh>
+	<ActorMesh name="SU_1089506_1" label="Soldering_tool" layer="Layer0">
+		<mesh name="M48366f0ee2c1f2a3a801062f2468c023_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="-305.091156" ty="193.850006" tz="137.653305" sx="2.54" sy="2.54" sz="2.54" qx="-0.337418" qy="-0.180543" qz="-0.814599" qw="0.435869" qhex="0AC2ACBE40E038BE8E8950BF402ADF3E"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.26vW4jT4H0deYCrpYCl9Aa" />
+		<tag value="SU.PATH.0.1089506" />
+	</ActorMesh>
+	<ActorMesh name="SU_1092930_1" label="Soldering_station" layer="Layer0">
+		<mesh name="M2191ff07bbbe0653e864b7fd7814476a_1"/>
+		<Transform tx="-301.14212" ty="199.649277" tz="116.619118" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.881715" qw="0.471781" qhex="00000000000000801BB861BF588DF13E"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.3oewtoeVD29x1vGADfW8aj" />
+		<tag value="SU.PATH.0.1092930" />
+	</ActorMesh>
+	<ActorMesh name="SU_1157135_1" label="Video_Card_element__1" layer="Layer0">
+		<mesh name="Mdcd97db0418b9335f678a5db0ce5796d_1"/>
+		<Transform tx="-387.172058" ty="226.778702" tz="116.0" sx="0.635" sy="0.635" sz="0.635" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.32h3sl4unEFxwDbhX65T4t" />
+		<tag value="SU.PATH.0.1157135" />
+	</ActorMesh>
+	<ActorMesh name="SU_1157138_1" label="Video_Card_element__4" layer="Layer0">
+		<mesh name="Mdd5173529eeee61f3b0f6fc83463d7d3_1"/>
+		<Transform tx="-425.955688" ty="215.997467" tz="116.0" sx="0.635" sy="0.635" sz="0.635" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.1uISVzuy5BAfcdh9JVNPJD" />
+		<tag value="SU.PATH.0.1157138" />
+	</ActorMesh>
+	<ActorMesh name="SU_1157131_1" label="Video_card_resistor__3" layer="Layer0">
+		<mesh name="Mb8dbea244bc1358745f4b8aacc194f10_1"/>
+		<Transform tx="-388.045135" ty="219.056686" tz="116.0" sx="0.635" sy="0.635" sz="0.635" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.2t5y8aMlf7Sv4tJbJoqGLU" />
+		<tag value="SU.PATH.0.1157131" />
+	</ActorMesh>
+	<ActorMesh name="SU_1157127_1" label="GPU" layer="Layer0">
+		<mesh name="M52f9ec21735243ad9917cda3ca077d32_1"/>
+		<Transform tx="-402.109161" ty="218.640686" tz="116.0" sx="0.635" sy="0.635" sz="0.635" qx="0.018178" qy="-0.0" qz="0.0" qw="0.999835" qhex="BCE9943C074B74A692E459272CF57F3F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.2yQ7efWQLBWf0VAZjCRA3p" />
+		<tag value="SU.PATH.0.1157127" />
+	</ActorMesh>
+	<ActorMesh name="SU_1157132_1" label="Video_card_throttles" layer="Layer0">
+		<mesh name="M8b5061484602cdd768665e95da48c912_1"/>
+		<Transform tx="-423.013336" ty="217.174561" tz="116.0" sx="0.635" sy="0.635" sz="0.635" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.057gbdGtDCyxHPSoAtGcyq" />
+		<tag value="SU.PATH.0.1157132" />
+	</ActorMesh>
+	<ActorMesh name="SU_1157126_1" label="Graphics_card_Power_Phase_Controller" layer="Layer0">
+		<mesh name="Mf890c04990d50b46aad3058a6c83dc40_1"/>
+		<Transform tx="-394.467438" ty="209.878616" tz="116.123993" sx="0.635" sy="0.635" sz="0.635" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.1$6dp$Hc14d9juAsYpq3NL" />
+		<tag value="SU.PATH.0.1157126" />
+	</ActorMesh>
+	<ActorMesh name="SU_1157129_1" label="Video_card_resistor__1" layer="Layer0">
+		<mesh name="Mf5cb8084169e1b87d30ad31737c349ef_1"/>
+		<Transform tx="-419.547333" ty="217.285141" tz="116.0" sx="0.635" sy="0.635" sz="0.635" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.3_3ofMMI9Adwvo6DskjJJ1" />
+		<tag value="SU.PATH.0.1157129" />
+	</ActorMesh>
+	<ActorMesh name="SU_1157120_1" label="Video_card_power_connector" layer="Layer0">
+		<mesh name="Mee6a009f39d15617cc4e2442720b84a6_1"/>
+		<Transform tx="-395.613464" ty="231.721069" tz="116.0" sx="0.635" sy="0.635" sz="0.635" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.30i45JPvLDwPkUt0YHcRU2" />
+		<tag value="SU.PATH.0.1157120" />
+	</ActorMesh>
+	<ActorMesh name="SU_1157118_1" label="Video_card_casing" layer="Layer0">
+		<mesh name="Mc69b8864b658138a25cac2e976081d96_1"/>
+		<Transform tx="-549.994019" ty="201.537415" tz="116.0" sx="0.635" sy="0.635" sz="0.635" qx="-0.0" qy="-0.0" qz="-0.707107" qw="0.707107" qhex="2E1BE6A6870EBFA6F20435BFF204353F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.1ZARy8wFnFh9FJpwFhqiGY" />
+		<tag value="SU.PATH.0.1157118" />
+	</ActorMesh>
+	<ActorMesh name="SU_1157137_1" label="Video_Card_element__3" layer="Layer0">
+		<mesh name="M4b0c7c3e42c192e20b272c131648c20a_1"/>
+		<Transform tx="-388.307068" ty="229.282425" tz="116.0" sx="0.635" sy="0.635" sz="0.635" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.019q2JfivCFvAiFD5bWmCG" />
+		<tag value="SU.PATH.0.1157137" />
+	</ActorMesh>
+	<ActorMesh name="SU_1157140_1" label="Video_card_fan_connector" layer="Layer0">
+		<mesh name="Me3ba94247bd86c05c54d37b572cc9f32_1"/>
+		<Transform tx="-441.995178" ty="212.015045" tz="116.123993" sx="0.635" sy="0.635" sz="0.635" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.1oTfOLvqb1axsUMOUR9aU4" />
+		<tag value="SU.PATH.0.1157140" />
+	</ActorMesh>
+	<ActorMesh name="SU_1157134_1" label="Video_card_chip" layer="Layer0">
+		<mesh name="M98b56891be2cdfb350664cddfaae3dda_1"/>
+		<Transform tx="-393.375214" ty="213.320175" tz="116.0" sx="0.635" sy="0.635" sz="0.635" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.1ljirUWIn3jR38ym9Kp5b9" />
+		<tag value="SU.PATH.0.1157134" />
+	</ActorMesh>
+	<ActorMesh name="SU_1157121_1" label="Video_Card_Fan" layer="Layer0">
+		<mesh name="M3f5193a394ef5829dec5a6df2aa1653b_1"/>
+		<Transform tx="-515.967407" ty="224.523041" tz="117.05172" sx="0.635" sy="0.635" sz="0.635" qx="-0.0" qy="0.0" qz="-0.707106" qw="0.707107" qhex="8BF775A7C3274127EC0435BFF904353F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.2WhtsF9jjDCPAdRFmEW3fW" />
+		<tag value="SU.PATH.0.1157121" />
+	</ActorMesh>
+	<ActorMesh name="SU_1157139_1" label="Graphics_Card_Power_Controller" layer="Layer0">
+		<mesh name="M0716be0c69a3d2bfce26b511fbd67e44_1"/>
+		<Transform tx="-410.928345" ty="220.515152" tz="116.1875" sx="0.635" sy="0.635" sz="0.635" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.3W3Be3phv6TQKMtz6tDFVm" />
+		<tag value="SU.PATH.0.1157139" />
+	</ActorMesh>
+	<ActorMesh name="SU_1157125_1" label="Video_Card_Beeper" layer="Layer0">
+		<mesh name="M21374811578fb2164a0953088e8af981_1"/>
+		<Transform tx="-439.428314" ty="216.642075" tz="116.0" sx="0.635" sy="0.635" sz="0.635" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.2VHr$_74vAGel_ZgBH1iXS" />
+		<tag value="SU.PATH.0.1157125" />
+	</ActorMesh>
+	<ActorMesh name="SU_1157123_1" label="Video_card_capacitor" layer="Layer0">
+		<mesh name="M38ad7b7c8fab0d6bc4b871e1abee4e66_1"/>
+		<Transform tx="-436.889709" ty="229.05191" tz="116.128815" sx="0.635" sy="0.635" sz="0.635" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.05cfF63m5BAPmJsQS5AJ_6" />
+		<tag value="SU.PATH.0.1157123" />
+	</ActorMesh>
+	<ActorMesh name="SU_1157119_1" label="Video_card_radiator" layer="Layer0">
+		<mesh name="Md2df42c2383edca886c61a9004a9836c_1"/>
+		<Transform tx="-516.117493" ty="192.43103" tz="116.0" sx="0.635" sy="0.635" sz="0.635" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0EG8Xb4k5CRujWGvptvaKy" />
+		<tag value="SU.PATH.0.1157119" />
+	</ActorMesh>
+	<ActorMesh name="SU_1157122_1" label="Video_card_outputs" layer="Layer0">
+		<mesh name="M313ef72515985b32961b2386cb789ac9_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="-379.70874" ty="217.442581" tz="116.0" sx="0.635" sy="0.635" sz="0.635" qx="0.001287" qy="-0.0" qz="-0.0" qw="0.999999" qhex="9BA0A83AF1F722AF2F4300AEF2FF7F3F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0H_dH3gj1E$ejg4wpemUEC" />
+		<tag value="SU.PATH.0.1157122" />
+	</ActorMesh>
+	<ActorMesh name="SU_1157133_1" label="Video_card_throtle" layer="Layer0">
+		<mesh name="M1ce30a9bc260265dfe9e0cdfb5510f28_1"/>
+		<Transform tx="-401.596069" ty="230.774643" tz="116.0" sx="0.635" sy="0.635" sz="0.635" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.2Js7V_6qjBdP9TZabBWVt5" />
+		<tag value="SU.PATH.0.1157133" />
+	</ActorMesh>
+	<ActorMesh name="SU_1157128_1" label="Video_card_memory" layer="Layer0">
+		<mesh name="Mb456ca12d98cb49a8741c01f20785699_1"/>
+		<Transform tx="-414.524078" ty="216.16304" tz="116.0" sx="0.635" sy="0.635" sz="0.635" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.26LR_PRG56dgfZaEBdkB9l" />
+		<tag value="SU.PATH.0.1157128" />
+	</ActorMesh>
+	<ActorMesh name="SU_1157130_1" label="Video_card_resistor__2" layer="Layer0">
+		<mesh name="M441b0a106ff6ef5c0c20f00061a8b926_1"/>
+		<Transform tx="-387.296997" ty="223.931458" tz="116.0" sx="0.635" sy="0.635" sz="0.635" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.2z_Z$gz5H9vOKPUFhOTYks" />
+		<tag value="SU.PATH.0.1157130" />
+	</ActorMesh>
+	<ActorMesh name="SU_1157136_1" label="Video_Card_element__2" layer="Layer0">
+		<mesh name="M8289c925c830bb1e1d946740b12f905a_1"/>
+		<Transform tx="-432.927429" ty="229.521286" tz="116.0" sx="0.635" sy="0.635" sz="0.635" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.2_Ztz1zVH9VBdTOKsitfsy" />
+		<tag value="SU.PATH.0.1157136" />
+	</ActorMesh>
+	<ActorMesh name="SU_1161675_1" label="Gruppа_84" layer="Layer0">
+		<mesh name="M587d3db53c7f030656962ff44ee947a9_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="-380.583435" ty="170.84639" tz="116.187515" sx="0.635" sy="0.635" sz="0.635" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.2WnI2HMkHErxhRJ3l11X3S" />
+		<tag value="SU.PATH.0.1161675" />
+	</ActorMesh>
+	<Texture name="Philips_20Incandescent_20A-19_20Light_20Bulb" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" file="Room_Assets/Philips%20Incandescent%20A-19%20Light%20Bulb.jpg">
+		<Hash value="12f16554756bf441f292de04efb87067"/>
+	</Texture>
+	<Texture name="Field_Square_Tile" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" file="Room_Assets/Field_Square_Tile.jpg">
+		<Hash value="2cb761a12bb5fd02762cf7519129ccb7"/>
+	</Texture>
+	<Texture name="Wood_Square_Tile_01" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" file="Room_Assets/Wood_Square_Tile_01.jpg">
+		<Hash value="b4ab5cb94af840b1797e20e668377224"/>
+	</Texture>
+	<Texture name="a4_1_" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" file="Room_Assets/a4(1).jpg">
+		<Hash value="9204556faab288dcb5361ec1dd46bc11"/>
+	</Texture>
+	<Texture name="abit_ab9_quad_gt" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" file="Room_Assets/abit_ab9_quad_gt.jpg">
+		<Hash value="d82bd247ca552d434fa1f67699b7df55"/>
+	</Texture>
+	<Texture name="5870_gpu-s" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" file="Room_Assets/5870_gpu-s.jpg">
+		<Hash value="28043556e61eb3fee240ab92895bb121"/>
+	</Texture>
+	<Texture name="t3" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" file="Room_Assets/t3.jpg">
+		<Hash value="5bb335a21a205a90db4446a85259de25"/>
+	</Texture>
+	<MasterMaterial name="Default-G7a1920d61156abc05a60135aefe8bc67"  label="Default" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.215861,G=0.215861,B=0.215861,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Philips_20Incandescent_20A-19_20Light_20Bulb-Ldd12ebb26b14c4a861d165b59beb8e98"  label="Philips_20Incandescent_20A-19_20Light_20Bulb" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.806952,G=0.806952,B=0.799103,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Philips%20Incandescent%20A-19%20Light%20Bulb.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Field_Square_Tile-Id2af8f3d413f7988916a984adeb87cb2"  label="Field_Square_Tile" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.693872,G=0.584078,B=0.396755,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Field_Square_Tile.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=0.041667,G=-0.041667,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Wood_Square_Tile_01-I82cedff6bd372effc9cb688236e197c9"  label="Wood_Square_Tile_01" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.371238,G=0.104616,B=0.025187,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Wood_Square_Tile_01.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=0.083333,G=-0.083333,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_M08-G6a38b07327f257d7cab52a100bb8c056"  label="Color_M08" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.019382,G=0.019382,B=0.019382,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_M07-G521ff69e2763e21f73a80b3c3a3bb2d4"  label="Color_M07" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.042311,G=0.042311,B=0.042311,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_M06-G4acf2788786180f1b34665260bd05113"  label="Color_M06" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.093059,G=0.093059,B=0.093059,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_M05-G01e1667858612ae92e9f614fc8944ad0"  label="Color_M05" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.168269,G=0.168269,B=0.168269,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_E04-Gf40fe850cad8c705cb34cee968cfb8f7"  label="Color_E04" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=1.000000,G=1.000000,B=0.031896,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_E03-Gc88ed8078722f9296152443e527f38de"  label="Color_E03" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=1.000000,G=1.000000,B=0.130136,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="a4-L894f782a148b33af1e39a0efed952d69"  label="a4" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.208637,G=0.205079,B=0.208637,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="a4(1).jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"  label="Color_008" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.012983,G=0.012983,B=0.012983,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="ceramika_biala-G1a1cab32125024c9e8bfb74b19b939a3"  label="ceramika_biala" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=1.000000,G=0.955973,B=0.955973,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Kondensator_metal-Gd3b4ca9ef3c47e53d099a8038a4ba682"  label="Kondensator_metal" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.527115,G=0.527115,B=0.527115,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Plastik_czarny-G8b7de129ea66e27b00aaa6d52a01f0e9"  label="Plastik_czarny" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.141263,G=0.141263,B=0.141263,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="abit_ab9_quad_gt-L1b6bfe9ede7ca380be748d983a1c0e10"  label="abit_ab9_quad_gt" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.162029,G=0.174647,B=0.187821,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="abit_ab9_quad_gt.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Metal_chip-G73e85b99c5afd6dc0f3ee9f7de9bfb63"  label="Metal_chip" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.396755,G=0.396755,B=0.396755,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="5870_gpu-s-L55de5f95b15a1edf62aa8724ab0e0ac2"  label="5870_gpu-s" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.119538,G=0.116971,B=0.090842,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="5870_gpu-s.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="ceramika_elekroniczna-G6876fb7e1c98844e8bddf701066e2526"  label="ceramika_elekroniczna" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.082283,G=0.082283,B=0.082283,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Metal_DVI-Gb688d7dbf569459eb6fd85d2d4025841"  label="Metal_DVI" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.715693,G=0.715693,B=0.715693,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="0046_Gold-G0862c16d4d1e89c26d0a4b89367fa622"  label="0046_Gold" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=1.000000,G=0.679542,B=0.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="t3-L0b8854ad38f0a6c65807928d28195609"  label="t3" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.158961,G=0.155926,B=0.165132,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="t3.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_002-G9d970e49df2d68bd3d5bc08875228747"  label="Color_002" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.564712,G=0.564712,B=0.564712,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_A07-G8b299fb0f94b8c7fe3ffbe71fe2bd2d2"  label="Color_A07" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.603827,G=0.021219,B=0.021219,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Kondensator_niebieski-Gd147dc47688214aa7176965876a049e8"  label="Kondensator_niebieski" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.000000,G=0.520996,B=1.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_009-G5b4467b76700e0fa86070f5ce8878854"  label="Color_009" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<Export Duration="3"/>
+</DatasmithUnrealScene>
